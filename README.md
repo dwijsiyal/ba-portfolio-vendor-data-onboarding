@@ -20,13 +20,13 @@ This project designs a standardized vendor onboarding process built on a two-tie
 
 | Phase | Deliverable | Description |
 |---|---|---|
-| 1 | [Project Brief](./01-Project-Brief) | Problem definition, scope, objectives, and success criteria |
-| 2 | [Current State Process Map](./02-Current-State-Process-Map) | Swimlane diagram of the manual reconciliation process and its pain points |
-| 3 | [Stakeholder Analysis](./03-Stakeholder-Analysis) | Power/Interest Matrix and RACI Chart |
-| 4 | [Requirements Document](./04-Requirements) | Business, Functional, and Non-Functional requirements (MoSCoW-prioritized, fully traced to business needs) |
-| 5 | [Data Mapping Table](./05-Data-Mapping) | Field-level mapping of 3 fictional vendors to a standardized summary schema |
-| 6 | [Future State Process Map](./06-Future-State-Process-Map) | Redesigned process showing how each current-state pain point is resolved |
-| 7 | [Final Portfolio](./07-Final-Portfolio) | All phases combined into a single PDF |
+| 1 | [Project Brief](BA-Portfolio-Vendor-Onboarding/01-Project-Brief) | Problem definition, scope, objectives, and success criteria |
+| 2 | [Current State Process Map](BA-Portfolio-Vendor-Onboarding/02-Current-State-Process-Map) | Swimlane diagram of the manual reconciliation process and its pain points |
+| 3 | [Stakeholder Analysis](BA-Portfolio-Vendor-Onboarding/03-Stakeholder-Analysis) | Power/Interest Matrix and RACI Chart |
+| 4 | [Requirements Document](BA-Portfolio-Vendor-Onboarding/04-Requirements) | Business, Functional, and Non-Functional requirements (MoSCoW-prioritized, fully traced to business needs) |
+| 5 | [Data Mapping Table](BA-Portfolio-Vendor-Onboarding/05-Data-Mapping) | Field-level mapping of 3 fictional vendors to a standardized summary schema |
+| 6 | [Future State Process Map](BA-Portfolio-Vendor-Onboarding/06-Future-State-Process-Map) | Redesigned process showing how each current-state pain point is resolved |
+| 7 | [Final Portfolio](BA-Portfolio-Vendor-Onboarding/07-Final-Portfolio) | All phases combined into a single PDF |
 
 ## Highlights Worth Noting
 
