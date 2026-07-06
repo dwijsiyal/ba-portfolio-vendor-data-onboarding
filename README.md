@@ -1,10 +1,10 @@
-# Vendor Data Onboarding & Integration Process — BA Portfolio Project
+# BA Portfolio Project: Vendor Data Onboarding & Integration Process
 
 **A fictional case study by Dwij Siyal, Business Analyst**
 
 > This project is modeled loosely on real business analysis experience gained while working on Virtual Visit, Telehealth, and Remote Patient Monitoring programs at a Canadian provincial health authority. The organization ("Prairie Telehealth Network"), vendors, and all data shown in this repository are entirely fictional and contain no proprietary information.
 
-📄 **[Read the full combined portfolio (PDF)](./07-Final-Portfolio/BA-Portfolio-Dwij-Siyal.pdf)**
+📄 **[Read the full combined portfolio (PDF)](BA-Portfolio-Vendor-Onboarding/07-Final-Portfolio/BA-Portfolio-Dwij-Siyal.pdf)**
 
 ---
 
@@ -51,4 +51,4 @@ Microsoft Word & Excel, Lucidchart, fictional data modeling
 
 ---
 
-📫 Connect with me: [LinkedIn](#) · [Resume](#)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/dwij-siyal-9b98a61a1/)
