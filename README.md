@@ -30,7 +30,7 @@ This project designs a standardized vendor onboarding process built on a two-tie
 
 ## Highlights Worth Noting
 
-- **The data mapping isn't a clean 1-to-1 exercise.** The three fictional vendors have genuinely different data shapes — one session-based, one encounter-based, one reading-based (RPM) — so several target fields are intentionally left `N/A` for vendors where they don't apply (e.g., a reading-based vendor has no "session duration"). Forcing every field to map for every vendor would have meant fabricating data.
+- **The data mapping isn't a clean 1-to-1 exercise.** The three fictional vendors have genuinely different data shapes, one session-based, one encounter-based, one reading-based (RPM). So several target fields are intentionally left `N/A` for vendors where they don't apply (e.g., a reading-based vendor has no "session duration"). Forcing every field to map for every vendor would have meant fabricating data.
 - **Two semantic mismatches are explicitly flagged**, not silently blended: RPM's "issue count" reflects clinical alerts, not technical issues, and its "total events" counts device readings, not sessions. These distinctions are documented so they don't get lost in aggregate reporting.
 - **The current state and future state process maps use the same visual language** (red = pain point, green = resolved), so the two diagrams can be read side by side as a before/after.
 
